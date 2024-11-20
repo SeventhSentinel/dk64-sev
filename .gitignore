@@ -16,6 +16,7 @@
 *.sym
 maps/*
 codec_test/*
+emu/*
 
 # Image Files
 *.rgba5551
