@@ -1,1 +1,1 @@
-start S:\Games\Emulation\RMG\RMG.exe  "C:\Users\james\Documents\GitHub\dk64-hack-base\rom\dk64-newhack-dev.z64"
+start emu\RMG\RMG.exe  "C:\Users\james\Documents\GitHub\dk64-sev\rom\dk64-newhack-dev.z64"

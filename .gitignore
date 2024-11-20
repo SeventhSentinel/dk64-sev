@@ -31,3 +31,4 @@ emu/*
 # N64Chain
 build/n64chain
 n64chain.zip
+test.bat
