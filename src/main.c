@@ -15,4 +15,6 @@ void cFuncLoop(void) {
 	if (tag_locked) {
 		tag_locked = 0;
 	}
+	
+	sev();
 }

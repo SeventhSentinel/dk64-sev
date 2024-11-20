@@ -381,7 +381,7 @@ static const movement_bitfield banned_movement_btf = {
 };
 
 static unsigned char tag_countdown = 0; // Global variable preventing tags within a few frames of a recent tag in some situations
-static char can_tag_anywhere = 0; // Global variable documenting whether TA can be performed, reducing the amount of checks
+static char can_tag_anywhere = 1; // Global variable documenting whether TA can be performed, reducing the amount of checks
 
 int inTransform(void) {
     /**
